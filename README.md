@@ -1,1 +1,2 @@
-# bbs_system
+# Board Bulletin System
+## Introduction
